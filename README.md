@@ -12,6 +12,7 @@
 - [插件化与热修复](细分领域/插件化与热修复.md)
 - [React Native](细分领域/React%20Native.md)
 - [Flutter](细分领域/Flutter.md)
+- [音视频](细分领域/音视频.md)
 - [Android IM 推送开发之基于 Openfire+Smack](细分领域/Android%20IM%20推送开发之基于%20Openfire+Smack.md)
 
 ## 源码解析
