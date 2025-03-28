@@ -1,3 +1,7 @@
+[那两年炼就的Android内功修养](https://blog.csdn.net/Luoshengyang/article/details/8923485?spm=1001.2014.3001.5502)
+
+***
+
 [ Android学习路线：如何成长为高级工程师](http://blog.csdn.net/singwhatiwanna/article/details/42343847)
 
 [ 我对Android的理解](http://blog.csdn.net/singwhatiwanna/article/details/46810527)
@@ -61,3 +65,11 @@
 [Android视图状态及重绘流程分析，带你一步步深入了解View(三)](http://blog.csdn.net/guolin_blog/article/details/17045157)
 
 [Android自定义View的实现方法，带你一步步深入了解View(四)](http://blog.csdn.net/guolin_blog/article/details/17357967)
+
+***
+
+[理解Android Binder机制(1/3)：驱动篇](https://paul.pub/android-binder-driver/)
+
+[理解Android Binder机制(2/3)：C++层](https://paul.pub/android-binder-cpp/)
+
+[理解Android Binder机制(3/3)：Java层](https://paul.pub/android-binder-java/)
